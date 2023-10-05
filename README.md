@@ -3,6 +3,7 @@
 The data set contains historical data of the customers who have taken loans from a German bank and the bank is facing issues with loan defaulters. The bank intends to build a machine learning model to predict whether the customer will default or not based on historical data
 
 Please go through the `German_Bank_Loan_Default_Prediction.ipynb` files to see the the analysis, models. 
+Please go through the 
 
 # Conclusion
 
